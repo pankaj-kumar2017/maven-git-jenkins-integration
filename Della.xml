@@ -1,0 +1,21 @@
+<object-stream>
+  <control.Controller>
+    <actionItemManager>
+      <editChangesPending>false</editChangesPending>
+      <currentActionItem>
+        <actionItemName>One</actionItemName>
+        <description>OneD</description>
+        <resolution>OneR</resolution>
+        <status>Open</status>
+        <dueDate>2018-07-30 18:30:00.0 UTC</dueDate>
+        <createdDate>2018-07-26 09:46:38.107 UTC</createdDate>
+      </currentActionItem>
+      <emptyActionItem>
+        <actionItemName></actionItemName>
+        <description></description>
+        <resolution></resolution>
+        <status></status>
+      </emptyActionItem>
+    </actionItemManager>
+  </control.Controller>
+</object-stream>
