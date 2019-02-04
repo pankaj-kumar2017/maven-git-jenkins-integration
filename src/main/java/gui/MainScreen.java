@@ -99,7 +99,7 @@ public class MainScreen extends JFrame {
 		// some of these pixels, so we make it a little larger so both the PC and the
 		// Macintosh versions look reasonable.
 		setSize(new Dimension(657,520));
-		setTitle("Della_00 Test CI-3");
+		setTitle("Della_00 Test CI-4");
 		// set up the screen changing buttons
 		buttonPanel.setLayout(theFlowLayout);
 
